@@ -3,9 +3,9 @@ function displayClock() {
   const monthNames = [
     'Jan',
     'Feb',
-    'Mar',
+    'Maa',
     'Apr',
-    'May',
+    'Mei',
     'Jun',
     'Jul',
     'Aug',
